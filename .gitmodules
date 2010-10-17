@@ -1,0 +1,3 @@
+[submodule "BeastxWordpressTools"]
+	path = BeastxWordpressTools
+	url = git@github.com:beastx/BeastxWordpressTools.git

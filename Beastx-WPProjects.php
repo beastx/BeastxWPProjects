@@ -29,7 +29,9 @@ Text Domain: BeastxWPProjects
 
 if (!defined('ABSPATH')) die("Aren't you supposed to come here via WP-Admin?");
 
-require_once 'includes.php';
+require_once 'BeastxWordpressTools/includeBeastxWordpressTools.php';
+include 'ProjectsShortCodes.php';
+include 'ProjectsPage.php';
 
 load_plugin_textdomain('BeastxWPProjects', null, basename(dirname(__FILE__)) . '/languages/');
 

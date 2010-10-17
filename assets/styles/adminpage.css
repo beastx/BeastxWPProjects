@@ -1,0 +1,200 @@
+.postbox-container-left {
+    padding-right: 2em;
+    width: 72%;
+}
+
+.postbox-container-right {
+    width: 20%;
+}
+
+small {
+	font-weight:normal;
+	color:#777;
+}
+
+div.inside ul {
+	margin-left: 20px;
+}
+
+div.inside ul li {
+	list-style: square;
+	line-height:16px;
+}
+
+div.inside ul li.rss {
+	list-style-image: url(/wp-includes/images/rss.png);
+}
+
+.text {
+	width: 250px;
+}
+
+div.inside .form-table th {
+    text-align: right;
+    width: 300px;
+}
+
+div.inside label {
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+div.inside .rowEditorButton {
+    margin-top: 1em;
+}
+
+div.inside .RowEditorTable {
+    margin: 1em;
+}
+
+.postarea {
+    margin-bottom: 2em;
+}
+
+
+.ScreenshotItem {
+    float: left;
+    margin: 0em 1em 1em 0em;
+    border: 1px solid #999;
+    padding: 0.5em;
+    text-align: center;
+    background-color: #EEE;
+}
+
+.ScreenshotItem img {
+    display: block;
+    border: 1px solid #AAA;
+    margin-bottom: 0.5em;
+}
+
+#attachmentsFileAttacherContainer,
+#screenshotsFileAttacherContainer {
+    clear: both;
+    padding-top: 0.6em;
+    padding-bottom: 0.4em;
+}
+
+#attachmentsFileAttacherContainer .status,
+#screenshotsFileAttacherContainer .status {
+    margin-left: 1em;
+    font-weight: bold;
+}
+
+#projects-installInstructions-meta .inside,
+#projects-otherNotes-meta .inside {
+    margin: 0px;
+}
+
+
+div.inside ul.categorychecklist {
+    margin: 0px;
+}
+
+
+div.inside ul.categorychecklist li {
+    list-style-type: none;
+}
+
+td.label {
+    width: 1%;
+    padding-right: 1.5em;
+    vertical-align: top;
+    text-align: right;
+}
+
+td.input {
+    width: 100%;
+    vertical-align: top;
+}
+
+td.input input {
+    width: 95%;
+    border: 1px solid #333;
+}
+
+td.input table.mceLayout {
+    border: 1px solid #333 !important;
+    width: 97% !important;
+}
+
+td.input table.mceLayout .mceIframeContainer iframe {
+    width: 99.9% !important;
+}
+
+#poststuff .inside td.input p {
+    margin: 0px;
+    font-size: 1em;
+}
+
+td.actions {
+    width: 1%;
+    padding-bottom: 1em;
+    border-bottom: 1px solid #999;
+    vertical-align: top;
+}
+
+#poststuff .inside td.actions a{
+    display: block;
+    font-size: 0.8em;
+    color: black;
+    text-decoration: none;
+    margin-bottom: 1em;
+    font-weight: bold;
+}
+
+.top td {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.bottom td {
+    padding-bottom: 1em;
+    border-bottom: 1px solid #999;
+}
+
+.BeastxPopup {
+    background-color: white;
+    border: 1px solid black;
+    position: absolute;
+    z-index: 10000000;
+}
+
+.BeastxPopupTitle {
+    font-size: 1em;
+    padding: 0.5em;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+.BeastxPopupContent {
+    text-align: center;
+}
+
+.AttachmentItem {
+    margin: 1em 0.5em;
+}
+
+.AttachmentItemLink {
+    font-weight: bold;
+    margin-right: 1em;
+}
+
+.AttachmentItemMetaData {
+    margin-right: 1em;
+}
+
+#postdiv.postarea, #postdivrich.postarea { margin:0; }
+#post-status-info { line-height:1.4em; font-size:13px; }
+#projects-description-meta .inside { margin:0px; }
+#projects-description-meta #editor-toolbar { background-color:#E1E1E1; }
+#projects-description-meta #editorcontainer { -moz-border-radius: 0px; }
+#projects-description-meta #editorcontainer .wp_themeSkin tr.mceFirst td.mceToolbar { background: none; background-color:#E3E3E3; border-top: 1px solid #BBB; }
+#ed_toolbar { display:none; }
+#postdiv #ed_toolbar, #postdivrich #ed_toolbar { display:block; }
+div#projects-title-meta div.inside { margin-top: 12px; margin-bottom: 0px; }
+#projects-title-meta .ProjectTitleRightTD { width: 12em; }
+#projects-title-meta #ProjectVersionInput { -moz-border-radius:6px 6px 6px 6px; border-style:solid; border-width:1px; font-size:1.7em; line-height:100%; outline:medium none; padding:3px 4px; width:91%; }
+#projects-title-meta #ProjectVersionContainer { vertical-align: top; }
+#projects-title-meta label { padding-left: 3px; font-weight: bold;padding-bottom: 3px; font-size: 0.85em; }
+#projects-title-meta #titlediv #title { width: 98%; }

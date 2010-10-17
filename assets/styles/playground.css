@@ -1,0 +1,108 @@
+#EditPlaygroundForm #titlediv table {
+    width: 100%;
+}
+#EditPlaygroundForm #titlediv .tdNameLabel,
+#EditPlaygroundForm #titlediv .tdVersionLabel,
+#EditPlaygroundForm #titlediv .tdVersionInput {
+    width: 1%;
+}
+
+#EditPlaygroundForm #titlediv .tdNameLabel,
+#EditPlaygroundForm #titlediv .tdVersionLabel {
+    padding-right: 0.5em;
+}
+#EditPlaygroundForm #titlediv .tdNameInput {
+    width: 100%;
+    padding-right: 1em;
+}
+#EditPlaygroundForm #titlediv #version {
+    font-size: 1.7em;
+    width: 3em;
+}
+#EditPlaygroundForm #titlediv label {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#EditPlaygroundForm #post-name-input {
+    font-size: 1em;
+    padding: 0.1em;
+    width: 10em;
+}
+
+
+.AttachmentItem {
+    float: left;
+    margin: 0em 1em 1em 0em;
+    border: 1px solid #999;
+    padding: 0.5em;
+    text-align: center;
+    background-color: #EEE;
+}
+
+.AttachmentItem img {
+    display: block;
+    border: 1px solid #AAA;
+    margin-bottom: 0.5em;
+}
+
+#screenshotsFileAttacherContainer {
+    clear: both;
+    padding-top: 0.6em;
+    padding-bottom: 0.4em;
+}
+
+#screenshotsFileAttacherContainer .status {
+    margin-left: 1em;
+    font-weight: bold;
+}
+
+
+#faqs tbody tr.answer td.label,
+#faqs tbody tr.question td.actions {
+    vertical-align: top;
+}
+
+#faqs tbody tr.question td {
+    padding-top: 0.5em;
+}
+
+#faqs tbody tr.answer td.label,
+#faqs tbody tr.answer td.input,
+#faqs tbody tr.question td.actions {
+    border-bottom: 1px solid #333;
+    padding-bottom: 0.5em;
+}
+
+#faqs tbody td.label {
+    width: 1%;
+    text-align: right;
+    font-weight: bold;
+}
+
+#faqs tbody td.input {
+    width: 100%;
+    padding-left: 1em;
+}
+
+#faqs tbody td.actions {
+    padding-left: 1em;
+}
+
+#faqs tbody td.actions a {
+    display: block;
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+#faqs tbody td.input input {
+    width: 100%;
+}
+
+#faqs #faqAddNew {
+    font-weight: bold;
+}
+
+#faqs #faqsContainer {
+    margin-bottom: 1.5em;
+}

@@ -1,0 +1,527 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beastx Wordpress Projects 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-15 02:30-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Beastx <beastx@beastxblog.com>\n"
+"Language-Team: Beastx\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: statsPage.php:6
+#: Beastx-WPProjects.php:69
+#: Beastx-WPProjects.php:139
+msgid "Stats"
+msgstr "Estadisticas"
+
+#: ProjectItem.php:106
+#: Beastx-WPProjects.php:304
+msgid "Development"
+msgstr "En desarrollo"
+
+#: ProjectItem.php:107
+#: Beastx-WPProjects.php:305
+msgid "Beta"
+msgstr "Beta"
+
+#: ProjectItem.php:108
+#: Beastx-WPProjects.php:306
+msgid "Stable"
+msgstr "Estable"
+
+#: ProjectItem.php:109
+#: Beastx-WPProjects.php:307
+msgid "Discontinued"
+msgstr "Discontinuado"
+
+#: optionsPage.php:6
+msgid "Configurations"
+msgstr "Configuraciones"
+
+#: optionsPage.php:38
+msgid "Options has been saved"
+msgstr ""
+
+#: optionsPage.php:48
+msgid "Options has been reseted"
+msgstr ""
+
+#: optionsPage.php:85
+msgid "Add new category"
+msgstr "Agregar nuevo"
+
+#: optionsPage.php:103
+msgid "Download Categories"
+msgstr ""
+
+#: optionsPage.php:114
+msgid "Add new licence"
+msgstr "Agregar nueva licencia"
+
+#: optionsPage.php:132
+msgid "Project Licences"
+msgstr "Licencias del Projecto"
+
+#: Beastx-WPProjects.php:56
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: Beastx-WPProjects.php:59
+msgid "Support"
+msgstr "Soporte"
+
+#: Beastx-WPProjects.php:60
+msgid "FAQ"
+msgstr "FAQ"
+
+#: Beastx-WPProjects.php:61
+msgid "Contribute"
+msgstr "Contribuir"
+
+#: Beastx-WPProjects.php:62
+msgid "Follow the author on Twitter"
+msgstr "Seguir al autor en Twitter"
+
+#: Beastx-WPProjects.php:63
+msgid "Follow the  author on Facebook"
+msgstr "Seguir al autor en Facebook"
+
+#: Beastx-WPProjects.php:68
+msgid "Options"
+msgstr "Opciones"
+
+#: Beastx-WPProjects.php:70
+#: helpPage.php:6
+msgid "Help"
+msgstr "Ayuda"
+
+#: Beastx-WPProjects.php:126
+msgid "Project Info"
+msgstr "Informacion del Projecto"
+
+#: Beastx-WPProjects.php:127
+msgid "Project Description"
+msgstr "Descripcion del projecto"
+
+#: Beastx-WPProjects.php:129
+msgid "Attachments"
+msgstr "Archivos"
+
+#: Beastx-WPProjects.php:130
+msgid "Screenshots"
+msgstr "Capturas de pantalla"
+
+#: Beastx-WPProjects.php:131
+msgid "FAQs"
+msgstr "FAQs"
+
+#: Beastx-WPProjects.php:132
+msgid "Install Instructions"
+msgstr "Instrucciones para la instalacion"
+
+#: Beastx-WPProjects.php:133
+msgid "Change Log"
+msgstr "Cambios en la version"
+
+#: Beastx-WPProjects.php:134
+msgid "Contributors"
+msgstr "Contribuidores"
+
+#: Beastx-WPProjects.php:136
+msgid "Misc options"
+msgstr "Opciones Varias"
+
+#: Beastx-WPProjects.php:137
+#: options.php:37
+msgid "Categories"
+msgstr "Categorias"
+
+#: Beastx-WPProjects.php:138
+msgid "Other notes"
+msgstr "Otras notas"
+
+#: Beastx-WPProjects.php:178
+msgid "Save"
+msgstr "Grabar"
+
+#: Beastx-WPProjects.php:179
+msgid "Done"
+msgstr "Listo"
+
+#: Beastx-WPProjects.php:180
+#: postTypeArgs.php:8
+msgid "Edit"
+msgstr "Editar"
+
+#: Beastx-WPProjects.php:181
+msgid "Remove"
+msgstr "Eliminar"
+
+#: Beastx-WPProjects.php:182
+msgid "Copy"
+msgstr "Duplicar"
+
+#: Beastx-WPProjects.php:183
+msgid "Name"
+msgstr "Nombre"
+
+#: Beastx-WPProjects.php:184
+msgid "Url"
+msgstr "Url"
+
+#: Beastx-WPProjects.php:185
+#: Beastx-WPProjects.php:234
+msgid "Version"
+msgstr "Version"
+
+#: Beastx-WPProjects.php:186
+msgid "Changes"
+msgstr "Cambios"
+
+#: Beastx-WPProjects.php:187
+msgid "Step"
+msgstr "Paso"
+
+#: Beastx-WPProjects.php:188
+msgid "Question"
+msgstr "Pregunta"
+
+#: Beastx-WPProjects.php:189
+msgid "Answer"
+msgstr "Respuesta"
+
+#: Beastx-WPProjects.php:190
+msgid "Select File"
+msgstr "Seleccionar Archivo"
+
+#: Beastx-WPProjects.php:191
+msgid "File max length"
+msgstr "Cantidad maxima de archivos"
+
+#: Beastx-WPProjects.php:192
+msgid "Are you sure?"
+msgstr "Esta seguro que desea eliminar"
+
+#: Beastx-WPProjects.php:231
+msgid "Project Title"
+msgstr "Titulo del Projecto"
+
+#: Beastx-WPProjects.php:232
+msgid "Description"
+msgstr "Descripcion"
+
+#: Beastx-WPProjects.php:233
+msgid "Category"
+msgstr "Categoria"
+
+#: Beastx-WPProjects.php:235
+msgid "Tags"
+msgstr ""
+
+#: Beastx-WPProjects.php:236
+msgid "Other Notes"
+msgstr "Otras notas"
+
+#: Beastx-WPProjects.php:288
+msgid "Project Name"
+msgstr "Nombre del Projecto"
+
+#: Beastx-WPProjects.php:289
+msgid "Project Version"
+msgstr "Version del Projecto"
+
+#: Beastx-WPProjects.php:309
+msgid "View demo link"
+msgstr "Ver demo link"
+
+#: Beastx-WPProjects.php:314
+msgid "Donate link"
+msgstr "Donacion link"
+
+#: Beastx-WPProjects.php:319
+#, fuzzy
+msgid "Support link"
+msgstr "Soporte"
+
+#: Beastx-WPProjects.php:324
+msgid "Project Status"
+msgstr "Estado del Projecto"
+
+#: Beastx-WPProjects.php:327
+#: Beastx-WPProjects.php:337
+msgid "Select"
+msgstr "Seleccionar"
+
+#: Beastx-WPProjects.php:334
+msgid "Project Licence"
+msgstr "Licencia"
+
+#: Beastx-WPProjects.php:349
+msgid "Add new contributor"
+msgstr "Agregar nuevo contribuidor"
+
+#: Beastx-WPProjects.php:419
+msgid "Add new FAQ"
+msgstr "Agregar nuevo FAQ"
+
+#: Beastx-WPProjects.php:441
+msgid "Add new Install Step"
+msgstr "Agregar nuevo paso de instalacion"
+
+#: Beastx-WPProjects.php:463
+msgid "Add new Change Log"
+msgstr "Agregar nuevos cambios"
+
+#: options.php:4
+msgid "Main options"
+msgstr "Opciones principales"
+
+#: options.php:9
+msgid "Enabled plugin?"
+msgstr "Habiitar este plugin?"
+
+#: options.php:16
+msgid "URL Base Name"
+msgstr "Nombre de la URL Base"
+
+#: options.php:17
+msgid "This is the part of the url to use form accedd to one published project."
+msgstr ""
+
+#: options.php:23
+msgid "Show as normal Post in the Front End?"
+msgstr ""
+
+#: options.php:32
+msgid "Projects categories"
+msgstr "Categorias de Projectos"
+
+#: options.php:45
+msgid "Projects licences"
+msgstr "Licencias para Projectos"
+
+#: options.php:50
+msgid "Licences"
+msgstr "Licencias"
+
+#: options.php:58
+msgid "Uploads options"
+msgstr "Opciones de los Uploads"
+
+#: options.php:63
+msgid "Uploads folder"
+msgstr "Carpeta para los uploads"
+
+#: options.php:64
+msgid "Set the folder use to upload the projects files. (Into /wp-content/)"
+msgstr ""
+
+#: options.php:70
+msgid "Templates folder"
+msgstr "Carpeta para los templates"
+
+#: options.php:71
+msgid "Set the folder use to save the templates files. (Into /wp-content/)"
+msgstr ""
+
+#: options.php:79
+msgid "Stats options"
+msgstr "Opciones de estadisticas"
+
+#: options.php:84
+msgid "Register views"
+msgstr "Registrar Vistas"
+
+#: options.php:85
+msgid "Count every time that one project is viewed."
+msgstr ""
+
+#: options.php:91
+msgid "Register downloads"
+msgstr ""
+
+#: options.php:92
+msgid "Count every time that one project is downloaded."
+msgstr ""
+
+#: options.php:100
+msgid "Items options"
+msgstr "Opciones para cada Item"
+
+#: options.php:105
+msgid "Use Versions"
+msgstr ""
+
+#: options.php:106
+msgid "Enabled this to permit set the version of the project file."
+msgstr ""
+
+#: options.php:112
+msgid "Max Screenshots"
+msgstr ""
+
+#: options.php:113
+msgid "Set the maximun number of the screenshot that can be attached to one project."
+msgstr ""
+
+#: options.php:119
+msgid "Use Other Nothes"
+msgstr ""
+
+#: options.php:126
+msgid "Use Install Intructions"
+msgstr ""
+
+#: options.php:133
+msgid "Use Change Log"
+msgstr ""
+
+#: options.php:140
+msgid "Use FAQ"
+msgstr "Usar FAQ"
+
+#: options.php:147
+msgid "Can publish without category"
+msgstr ""
+
+#: options.php:148
+msgid "Enabled this to permit publish one project whiout link to any category."
+msgstr ""
+
+#: options.php:154
+msgid "Can publish without Tags"
+msgstr ""
+
+#: options.php:155
+msgid "Enabled this to permit publish one project whiout link to any tag."
+msgstr ""
+
+#: postTypeArgs.php:4
+msgid "Projects"
+msgstr "Projectos"
+
+#: postTypeArgs.php:5
+msgid "Project"
+msgstr "Projecto"
+
+#: postTypeArgs.php:6
+msgid "Add New"
+msgstr "Agregar nuevo"
+
+#: postTypeArgs.php:7
+msgid "Add New Project"
+msgstr "Agregar nuevo Projecto"
+
+#: postTypeArgs.php:9
+msgid "Edit Project"
+msgstr "Editar Projecto"
+
+#: postTypeArgs.php:10
+msgid "New Project"
+msgstr "Nuevo projecto"
+
+#: postTypeArgs.php:11
+#: postTypeArgs.php:12
+msgid "View Project"
+msgstr "Ver projecto"
+
+#: postTypeArgs.php:13
+msgid "Search Projects"
+msgstr "Buscar projectos"
+
+#: postTypeArgs.php:14
+msgid "No Projects found"
+msgstr "Ningun projecto encontrado"
+
+#: postTypeArgs.php:15
+msgid "No Projects found in Trash"
+msgstr ""
+
+#: postTypeArgs.php:16
+msgid "Parent Project"
+msgstr ""
+
+#: postTypeArgs.php:18
+msgid "A super duper is a type of content that is the most wonderful content in the world. There are no alternatives that match how insanely creative and beautiful it is."
+msgstr ""
+
+#: libs/class.BeastxAdminPage.php:60
+msgid "Admin Page"
+msgstr ""
+
+#: libs/class.BeastxAdminPage.php:78
+msgid "You cannot edit the "
+msgstr ""
+
+#: libs/class.BeastxAdminPage.php:125
+msgid "Save &raquo;"
+msgstr "Guardar &raquo;"
+
+#: libs/class.BeastxAdminPage.php:126
+msgid "Reset &raquo;"
+msgstr "Resetear &raquo;"
+
+#: libs/class.BeastxAdminPage.php:160
+msgid "Included Widgets and Plugins"
+msgstr ""
+
+#: libs/class.BeastxAdminPage.php:164
+msgid "If for whatever reason you want to \"clean up\" the settings set here or want to use another theme, click the <em>Reset Settings</em> button below.  To completely remove the theme, make sure to delete the <em>/beastx/</em> folder in the<em>/wp-content/themes/</em> directory."
+msgstr ""
+
+#: libs/class.BeastxAdminPage.php:165
+msgid "Reset"
+msgstr "Resetear"
+
+#: libs/class.BeastxAdminPage.php:167
+msgid "Update Beastx Theme settings"
+msgstr ""
+
+#: libs/class.BeastxAdminPage.php:177
+msgid "Like this plugin?"
+msgstr ""
+
+#: libs/class.BeastxAdminPage.php:194
+#, fuzzy
+msgid "Need support?"
+msgstr "Soporte"
+
+#: libs/class.BeastxAdminPage.php:197
+msgid "<p>If you have any problems with this theme or good ideas for improvements or new features, please talk about them in the <a href=\"http://wordpress.org/tags/blog-icons\">Support forums</a>.</p>"
+msgstr ""
+
+#: libs/class.BeastxAdminPage.php:206
+msgid "Latest news from Yoast"
+msgstr ""
+
+#: libs/class.BeastxAdminPage.php:210
+msgid "Go to Beastx's Blog"
+msgstr ""
+
+#: libs/class.BeastxAdminPage.php:211
+msgid "Subscribe with RSS"
+msgstr ""
+
+#: libs/class.BeastxAdminPage.php:212
+msgid "Send me an Email"
+msgstr ""
+
+#: libs/class.BeastxInputs.php:18
+#: libs/class.BeastxInputs.php:26
+msgid "Select Image"
+msgstr ""
+
+#: libs/class.BeastxInputs.php:28
+msgid "Remove Image"
+msgstr ""
+
+#~ msgid "Adding projects post type functionality."
+#~ msgstr ""
+#~ "Agrega un nuevo Post Type llamado Proyectos que sirve para tener downloads"
+
